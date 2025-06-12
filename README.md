@@ -16,10 +16,10 @@ Modularity: Clear separation of rendering, logic, and data
 
 ## Folder Structure
 
-![App Screenshot](assets/screenshot1.png)
+![App Screenshot](assets/Screenshot1.png)
 
 ## Output
 After every 5 points three hurdles are inserted at random coordinates. The scores of each try are stored in the bat file and High scores are added anytime they are broken.
 
-![Game output](assets/screenshot2.png)
+![Game output](assets/Screenshot2.png)
 
